@@ -5,7 +5,20 @@
     --mycolor04: #3D313F;
     --mycolor05: #f8e7cd;
     --mybutton01: #AA641E;
-}
+
+    /* group-color */
+    --mygc101:#b2a59f;
+    --mygc102:#023459;
+    --mygc103:#1E646E;
+    --mygc104:#002C2F;
+    --mygc201:#CCD3D9;
+    --mygc202:#FED5D9;
+    --mygc203:#7E212C;
+    --mygc204:#321E17;
+    --mygc301:#A6C2CE;
+    --mygc302:#9C8F96;
+    --mygc303:#EBC57C;
+    --mygc304:#6B799E;
 .fw-500{
     font-weight: 500;
 }
